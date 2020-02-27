@@ -11,7 +11,7 @@
   
   <properties>
   
-  	<spring.version>5.1.5.RELEASE</spring.version>
+  	<spring.version>5.2.4.RELEASE</spring.version>
     <hibernate.version>5.4.1.Final</hibernate.version>
     <jpa.version>2.1.5.RELEASE</jpa.version>
     <jsp-version>2.1</jsp-version>
