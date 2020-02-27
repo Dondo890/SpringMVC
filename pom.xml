@@ -13,7 +13,7 @@
   
   	<spring.version>5.1.5.RELEASE</spring.version>
     <hibernate.version>5.4.1.Final</hibernate.version>
-    <jpa.version>2.1.5.RELEASE</jpa.version>
+    <jpa.version>2.1.9.RELEASE</jpa.version>
     <jsp-version>2.1</jsp-version>
     <jsp.api.version>2.3.1</jsp.api.version>
     <jstl.version>1.2</jstl.version>
